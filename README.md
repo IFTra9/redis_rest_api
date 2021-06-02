@@ -19,5 +19,9 @@
 docker-compose separate between the Redis server and the app. 
 
 used Postman for tests (explaind above)
+
+to run the project with docker and docker-compose:
+1. docker build . -t project  
+2. docker-compose up -d
         
       
